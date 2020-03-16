@@ -1,0 +1,8 @@
+my:
+ greeting:Hello World from Config Server
+ list: one,two,three
+ 
+ db:
+ connection:Connection String here
+ host:127.0.0.1
+ port:8080
